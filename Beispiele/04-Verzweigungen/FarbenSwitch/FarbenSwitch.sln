@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarbenSwitch", "ConsoleApp1\FarbenSwitch.csproj", "{7FDB56A7-3D2A-464E-A98D-5AC12A4ED70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FDB56A7-3D2A-464E-A98D-5AC12A4ED70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDB56A7-3D2A-464E-A98D-5AC12A4ED70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDB56A7-3D2A-464E-A98D-5AC12A4ED70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDB56A7-3D2A-464E-A98D-5AC12A4ED70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A444B60-3FB1-4B01-9619-E2C1EF324EB2}
+	EndGlobalSection
+EndGlobal
